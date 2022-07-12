@@ -1,1 +1,1 @@
-# practice_website
+Website created to practice using HTML, CSS, and Javascript together.
